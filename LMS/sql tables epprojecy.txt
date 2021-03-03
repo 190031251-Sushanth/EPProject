@@ -1,0 +1,3 @@
+ create table grades (username varchar2(30), course_name varchar2(30), sem varchar2(30),year varchar2(30),test1 varchar2(30), test2 varchar2(20),internals varchar2(30),semend varchar2(30), sec varchar2(30));
+
+create table employee(email varchar2(50),username varchar2(30),name varchar2(30),dept varchar2(30), address varchar2(100), mobile number(15),password varchar2(30));
